@@ -1,1 +1,1 @@
-# Java Reto 5 Interfas grafica con conexion a base de datos
+# Java Reto 5 Interfaz grafica con conexion a base de datos
